@@ -1,4 +1,4 @@
-import java.lang.reflect.Type
+package fundamentals
 
 fun main(){
     var name = "Kotlin" // Mutable.

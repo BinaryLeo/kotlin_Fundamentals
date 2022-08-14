@@ -1,3 +1,5 @@
+package fundamentals
+
 fun main (){
    /* Loops  and branching
     if amount is equal to 1000, then you're wealthy, else you are getting by just fine
