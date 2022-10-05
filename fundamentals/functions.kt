@@ -12,9 +12,12 @@ fun main() {
         multipleOf = 11
     )
 
-    println( "Your cat has " +calculateCatAge(2) + " yrs old.")
+    println("Your cat has " + calculateCatAge(2) + " yrs old.")
     val catAge = calculateCatAge(age = 12)
-    println( "Your cat has $catAge yrs old.")
+    if (checkCatAge(catAge))
+        println("This cat is very old.")
+    else
+        println("This cat is young.")
 }
 
 fun sayHello() {
@@ -44,7 +47,8 @@ fun calculate(
     }
 }
 
-fun calculateCatAge(age:Int):Int{
-    return age * 7
-
+fun calculateCatAge(age: Int): Int = age * 7
+fun checkCatAge(catAge: Int): Boolean {
+    return catAge > 14
 }
+
