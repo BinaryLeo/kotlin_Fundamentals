@@ -40,8 +40,7 @@ fun main(){
 
     val number = 1000000000000000000
     val oneLong = 1L
+    println("number has a " + number.javaClass.kotlin.simpleName.toString().lowercase() + " type!")
     println("oneLong has a " + oneLong.javaClass.kotlin.simpleName.toString().lowercase() + " type!")
-
-
 
 }
