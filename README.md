@@ -9,5 +9,7 @@ Fundamentals
 - When expression - Range
 - For Loop
 - Functions
+- Lambda expressions
+- Trailing Lambda
 
 
