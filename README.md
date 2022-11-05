@@ -11,5 +11,6 @@ Fundamentals
 - Functions
 - Lambda expressions
 - Trailing Lambda
+- Collections
 
 
