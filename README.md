@@ -12,5 +12,7 @@ Fundamentals
 - Lambda expressions
 - Trailing Lambda
 - Collections
+- Sets collections
+- Maps collections
 
 
