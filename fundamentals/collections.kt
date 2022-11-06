@@ -9,4 +9,9 @@ val myListOfNames = listOf("Leonardo", "Luigi","Matteo")
     for(item in myListOfNames){
         println("$item you are the index " + myListOfNames.indexOf(item) + " of our developers list" )
     }
+
+val yourListOfNames = listOf("Jeremy", "Luke","Michel")
+yourListOfNames.forEach {
+    println(it)
+}
 }
