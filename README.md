@@ -19,7 +19,7 @@ Fundamentals
 
 Intermeditate
 
--
+- Basic Class
 
 Advanced
 
