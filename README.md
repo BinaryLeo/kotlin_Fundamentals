@@ -1,5 +1,7 @@
 # Kotlin_Fundamentals
-Android Jetpack Compose: The Comprehensive Bootcamp 2022
+Android Jetpack Compose - lessons : The Comprehensive Bootcamp 2022 and
+The Complete Android 12 & Kotlin Development Masterclass
+
 
 Fundamentals
 - Variables
@@ -12,5 +14,13 @@ Fundamentals
 - Lambda expressions
 - Trailing Lambda
 - Collections
+- Sets collections
+- Maps collections
 
+Intermeditate
 
+-
+
+Advanced
+
+-
