@@ -27,4 +27,13 @@ fun main() {
     }
     println(yourMutableListOfNames.size)
     println(yourMutableListOfNames[1])
+
+    val listofNames = mutableListOf<String>()
+    listofNames.add("John")
+    listofNames.add("James")
+    for(i in 1 .. 10){
+        listofNames.add("added $i")
+    }
+    println(listofNames)
+   
 }
