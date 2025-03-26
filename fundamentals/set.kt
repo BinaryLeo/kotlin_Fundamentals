@@ -7,4 +7,8 @@ fun main() {
     val myListOfValues = mutableSetOf("lui","Greg")//mutable
     myListOfValues.add("Stuart")
     println(myListOfValues)
+
+    val mynewset = setOf("banana", "apple", "orange", "grapes")
+    val orderedValues = mynewset.sorted()
+    println(orderedValues)
 }

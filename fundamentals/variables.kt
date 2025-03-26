@@ -9,7 +9,7 @@ fun main(){
     println("Welcome $myName!")
 
     //Initializing variables:
-    var age: Int = 38 // Explicitly given type is redundant here
+    var age: Int = 41 // Explicitly given type is redundant here
     println( "$myName has $age years old!")
 
 
